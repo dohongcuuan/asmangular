@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Product update",
+      "price": 5000,
+      "image": "image",
+      "id": 1
+    },
+    {
+      "name": "Product 1",
+      "price": 4000,
+      "image": "image 2",
+      "id": 2
+    },
+    {
+      "name": "quanquan",
+      "price": 14,
+      "image": "hongcoqwdqwdqw",
+      "id": 3
+    }
+  ]
+}
